@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-stripe-infra",
+    "jd": "We are seeking a Staff Infrastructure Engineer to scale our distributed payment ledger systems. Key requirements:\n- 5+ years of experience with distributed consensus (Raft, Paxos)\n- Deep proficiency in Go or Rust\n- Experience designing fault-tolerant financial transaction processing pipelines\n- Strong background in database isolation levels and consistency guarantees\n- Excellent architectural communication and post-mortem leadership skills",
+    "company_url": "https://stripe.com",
+    "days": 5
+  },
+  {
+    "id": "case-linear-frontend",
+    "jd": "Looking for a Senior Frontend Engineer to build high-performance web applications.\nRequirements:\n- Deep expertise in React, TypeScript, and web standards\n- Experience building real-time collaborative interfaces (CRDTs or WebSockets)\n- Obsession with 60fps micro-interactions, keyboard-first navigation, and client-side caching\n- Track record of shipping customer-facing SaaS products",
+    "company_url": "https://linear.app",
+    "days": 3
+  }
+]
